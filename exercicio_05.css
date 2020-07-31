@@ -1,0 +1,17 @@
+.azul {
+    background-color: rgb(85, 85, 223);
+    font-size: 17px;
+    margin-left: 10px;
+    height: 30px;
+    width: 80px;
+    border-radius: 15%;
+}
+
+.vermelho {
+    background-color: rgb(255, 0, 0);
+    font-size: 17px;
+    margin-left: 20px;
+    height: 30px;
+    width: 80px;
+    border-radius: 15%;
+}
